@@ -1,3 +1,3 @@
 #' @importFrom Rcpp sourceCpp
 #' @useDynLib metapod
-NULL
+"_PACKAGE"

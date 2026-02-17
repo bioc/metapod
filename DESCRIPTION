@@ -1,6 +1,6 @@
 Package: metapod
-Version: 1.19.1
-Date: 2025-11-22
+Version: 1.19.2
+Date: 2026-02-18
 Title: Meta-Analyses on P-Values of Differential Analyses
 Authors@R:
     person("Aaron", "Lun", role=c("aut", "cre"), email = "infinite.monkeys.with.keyboards@gmail.com")
@@ -25,6 +25,8 @@ Description:
     Support is provided for handling log-transformed input p-values, missing
     values and weighting where appropriate. 
 License: GPL-3
+URL: https://github.com/LTLA/metapod
+BugReports: https://github.com/LTLA/metapod/issues
 NeedsCompilation: yes
 SystemRequirements: C++11
 VignetteBuilder: knitr
